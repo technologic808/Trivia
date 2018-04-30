@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="quizName">Trivia</string>
+    <string name="questionOne">Number of planets in the Solar System</string>
+    <string name="qOneOptionOne">Seven</string>
+    <string name="qOneOptionTwo">Nine</string>
+    <string name="qOneOptionThree">Eight</string>
+    <string name="questionTwo">Select the moons of Saturn</string>
+    <string name="qTwoOptionOne">Titan</string>
+    <string name="qTwoOptionTwo">Europa</string>
+    <string name="qTwoOptionThree">Rhea</string>
+    <string name="questionThree">Brightest star in the night sky</string>
+    <string name="questionThreeHint">Hint : Not the Sun</string>
+    <string name="questionFour">Select the Red Planet</string>
+    <string name="qFourOptionOne">Venus</string>
+    <string name="qFourOptionTwo">Earth</string>
+    <string name="qFourOptionThree">Mars</string>
+    <string name="submitButton">Submit</string>
+    <string name="answerThree">Sirius</string>
+    <string name="Win">Congratulations! You got all four answers right!</string>
+    <string name="LosePart1">You got </string>
+    <string name="LosePart2"> out of 4 answers right.</string>
+</resources>

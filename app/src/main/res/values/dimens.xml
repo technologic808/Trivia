@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Display4">112sp</dimen>
+    <dimen name="dividingLine">2dp</dimen>
+    <dimen name="mainMargin">24dp</dimen>
+    <dimen name="marginTwo">8dp</dimen>
+    <dimen name="Display1">34sp</dimen>
+    <dimen name="marginThree">16dp</dimen>
+    <dimen name="Display2">45sp</dimen>
+</resources>
