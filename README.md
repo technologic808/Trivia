@@ -1,6 +1,6 @@
 # Trivia
 
-An app which contains a quiz consisting of few questions.
+An app which contains a quiz consisting of a few questions.
 
 The answers are accepted using various input methods depending on the question such as free text, radio button, or checkboxes.
 
